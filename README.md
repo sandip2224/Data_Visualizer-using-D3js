@@ -1,20 +1,20 @@
-<h1 align="center">✨TITLE OF PROJECT✨</h1>
+<h2 align="center">Data Vizualizer</h2>
 <p align="center">
-  <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/repo-size/sandip2224/My-README.md-Template"/>
+  <img src="https://img.shields.io/github/license/sandip2224/Data_Visualizer-using-D3js"/>
+  <img src="https://img.shields.io/github/forks/sandip2224/Data_Visualizer-using-D3js"/>
+  <img src="https://img.shields.io/github/stars/sandip2224/Data_Visualizer-using-D3js"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/Data_Visualizer-using-D3js"/>
+  <img src="https://img.shields.io/github/repo-size/sandip2224/Data_Visualizer-using-D3js"/>
 </p>
 
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME">View Demo</a>
+    <a href="https://github.com/sandipan_2224/Data_Visualizer-using-D3js">View Demo</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Report Bug</a>
+    <a href="https://github.com/sandipan_2224/Data_Visualizer-using-D3js/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Request Feature</a>
+    <a href="https://github.com/sandipan_2224/Data_Visualizer-using-D3js/issues">Request Feature</a>
   </p>
 </p>
 
