@@ -18,6 +18,9 @@
   </p>
 </p>
 
+<h2 align="center">Output Preview</h2>
+
+<p align="center"><img src="img/output.png" height=200 weight=200/></p>
 
 
 <!-- TABLE OF CONTENTS -->
