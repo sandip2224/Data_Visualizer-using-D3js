@@ -20,7 +20,7 @@
 
 <h2 align="center">Output Preview</h2>
 
-<p align="center"><img src="img/output.png" height=200 weight=200/></p>
+<p align="center"><img src="img/output.png" height=350 weight=350/></p>
 
 
 <!-- TABLE OF CONTENTS -->
