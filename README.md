@@ -120,8 +120,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Contact</h2>
 
-- **Hey guys, I'm Sandipan. Find me ** [here](https://linkeidn.com/in/sandipan0164)  
-- **Reach out to me at: ** [sandipan2224@gmail.com](sandipan2224@gmail.com)  
+- **Hey guys, I'm Sandipan. Find me** [ here](https://linkeidn.com/in/sandipan0164)  
+- **Reach out to me at:** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 
 
