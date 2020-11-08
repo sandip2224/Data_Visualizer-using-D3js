@@ -120,7 +120,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Contact</h2>
 
-- **Hey guys, I'm Sandipan. Find me :** [here](https://linkeidn.com/in/sandipan0164)  
+- **Hey guys, I'm Sandipan. Find me ** [here](https://linkeidn.com/in/sandipan0164)  
 - **Reach out to me at: ** [sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 
@@ -131,6 +131,6 @@ Contributions are what make the open source community such an amazing place to b
 
 * [Python for Everybody Capstone](https://www.coursera.org/learn/python-data-visualization)
 * [GitHub Markdown docs](https://guides.github.com/features/mastering-markdown/)
-* [D3.js docs]https://d3js.org/)
+* [D3.js docs](https://d3js.org/)
 
 <h3 align="right">Built and designed by <em>Sandipan Das</em></h3>
