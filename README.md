@@ -1,7 +1,7 @@
 <h2 align="center">My-README.md-Template✅</h2>
 
 <p align="center">
-   <img src="img/doc_logo.png" alt="Logo" height=100 weight=100/>
+   <img src="img/chart.png" alt="Logo" height=85 weight=85/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
