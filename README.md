@@ -3,25 +3,29 @@
 <p align="center">
    <img src="img/chart.png" alt="Logo" height=85 weight=85/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/repo-size/sandip2224/My-README.md-Template"/>
+<p align='center'> 
+   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+   <img src="https://img.shields.io/badge/-By%20Sandipan%20Das-yellow?style=for-the-badge" /><br>
+   <img src="https://img.shields.io/github/issues/sandip2224/Data_Visualizer-using-D3js?style=for-the-badge" />
+   <img src="https://img.shields.io/github/stars/sandip2224/Data_Visualizer-using-D3js?style=for-the-badge" />
+   <img src="https://img.shields.io/github/forks/sandip2224/Data_Visualizer-using-D3js?style=for-the-badge" />
+   <img src="https://img.shields.io/github/contributors/sandip2224/Data_Visualizer-using-D3js?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" /><br>
+   <img src="https://img.shields.io/github/issues-pr/sandip2224/Data_Visualizer-using-D3js?color=purple&style=for-the-badge" />
+   <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/Data_Visualizer-using-D3js?color=purple&style=for-the-badge" /></a><br>
 </p>
 <p align="center">
-  <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/sandip2224/Data_Visualizer-using-D3js"><strong>Explore the docs »</strong></a>
 </p>
 
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME">View Demo</a>
+    <a href="https://github.com/sandipan_2224/Data_Visualizer-using-D3js">View Demo</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Report Bug</a>
+    <a href="https://github.com/sandipan_2224/Data_Visualizer-using-D3js/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Request Feature</a>
+    <a href="https://github.com/sandipan_2224/Data_Visualizer-using-D3js/issues">Request Feature</a>
   </p>
 </p>
 
