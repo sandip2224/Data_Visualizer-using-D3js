@@ -1,4 +1,4 @@
-<h2 align="center">My-README.md-Template✅</h2>
+<h2 align="center">Data Visualizer using D3.js</h2>
 
 <p align="center">
    <img src="img/chart.png" alt="Logo" height=85 weight=85/>
